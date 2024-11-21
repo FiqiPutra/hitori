@@ -9,7 +9,7 @@ const chalk = require('chalk');
 
 //~~~~~~~~~~~~< GLOBAL SETTINGS >~~~~~~~~~~~~\\
 
-global.owner = ['6282113821188','6281356484612','6285773557984']
+global.owner = ['6287822090456','6287822090456','6287822090456']
 global.packname = 'Bot WhatsApp'
 global.author = 'Nazedev'
 global.botname = 'Naze Bot'
@@ -26,10 +26,10 @@ global.fake = {
 }
 
 global.my = {
-	yt: 'https://youtube.com/c/Nazedev',
-	gh: 'https://github.com/nazedev',
-	gc: 'https://chat.whatsapp.com/Hx9vcBVhbc04KLVGPFtH2R',
-	ch: '120363250409960161@newsletter',
+	yt: 'https://www.instagram.com/kulo.piqii',
+	gh: 'https://www.instagram.com/kulo.piqii',
+	gc: 'https://www.instagram.com/kulo.piqii',
+	ch: '@newsletter',
 }
 
 global.limit = {
